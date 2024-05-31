@@ -16,7 +16,7 @@
 
 
 ## 주요 프로젝트
-- [**Project 1**](https://github.com/username/project1): 설명 (사용된 기술: Java, Spring Boot)
+- [**Project 1**]([https://github.com/username/project1](https://github.com/ParkJaeHyung00/FrontEnd)): 설명 (사용된 기술: Java, Spring Boot)
 - [**Project 2**](https://github.com/username/project2): 설명 (사용된 기술: React, Node.js)
 
 ```
