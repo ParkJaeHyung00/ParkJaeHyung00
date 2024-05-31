@@ -8,10 +8,11 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
+# 안녕하세요, 저는 백엔드개발자 박재형입니다 !
+- 🔭 현재는 **Spring Boot**와 **MySQL**을 사용하여 웹 애플리케이션을 공부하고 있습니다.
+- 🌱 최근에는 **Kubernetes**와 **Docker**에 관심을 가지고 학습 중입니다.
+- 📫 이메일: psy970825@naver.com
+
 
 
 
