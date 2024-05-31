@@ -15,14 +15,9 @@
 
 
 
-
-**두껍개**<br>
-*기울임*<br>
-~~취소선~~<br>
-* 1번
-* 2번
-- 3번
-- 4번
+## 주요 프로젝트
+- [**Project 1**](https://github.com/username/project1): 설명 (사용된 기술: Java, Spring Boot)
+- [**Project 2**](https://github.com/username/project2): 설명 (사용된 기술: React, Node.js)
 
 ```
 코드형식으로 묶을 내용
